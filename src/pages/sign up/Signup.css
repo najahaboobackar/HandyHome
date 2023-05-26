@@ -1,0 +1,86 @@
+.name{
+    position: absolute;
+    width: 332px;
+    height: 52px;
+    left: 29px;
+    top: 459px;
+    margin-bottom: 0.5rem;
+    font-family:Inter, sans-serif; ;
+    font-style: normal;
+    font-weight: 400;
+    color:black;
+    background: #F3F3F3;
+    box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-size: 12px;
+    line-height: 18px;
+    text-indent: 16px;
+    letter-spacing: 0.0015em;
+    
+}
+.mail{
+    position: absolute;
+width: 332px;
+height: 52px;
+left: 29px;
+top: 537px;
+margin-bottom: 0.5rem;
+background: #F3F3F3;
+box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+font-family: Inter, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+text-indent: 16px;
+letter-spacing: 0.0015em;
+
+}
+.password{
+    position: absolute;
+    width: 332px;
+    height: 52px;
+    left: 29px;
+    top: 620px;
+    margin-bottom: 0.5rem;
+    background: #F3F3F3;
+    box-shadow: inset 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-indent: 16px;
+    letter-spacing: 0.0015em;
+
+}
+.sign{
+    position: absolute;
+left: 7.44%;
+right: 6.67%;
+top: 700px;
+bottom: 15.64%;
+color: white;
+background: #685C79;
+border-radius: 10px;
+font-family: Inter, sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+Width: 335px;
+height: 52px;
+}
+.exist {
+    position: absolute;
+    bottom: 40px;
+  }
+  h1{
+    color: #685C79;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 1px;
+
+}
